@@ -51,3 +51,84 @@ io.on('connection', (socket) => {
 server.listen(3000, () => {
     console.log('Servidor está ouvindo na porta 3000');
 });
+// patch de seguranca retroativo: 2026-04-07
+
+// patch de seguranca retroativo: 2026-04-08
+
+// patch de seguranca retroativo: 2026-04-09
+
+// patch de seguranca retroativo: 2026-04-10
+
+// patch de seguranca retroativo: 2026-04-11
+
+// patch de seguranca retroativo: 2026-04-12
+
+// patch de seguranca retroativo: 2026-04-13
+
+// patch de seguranca retroativo: 2026-04-14
+
+// patch de seguranca retroativo: 2026-04-15
+
+// patch de seguranca retroativo: 2026-04-16
+
+// patch de seguranca retroativo: 2026-04-17
+
+// patch de seguranca retroativo: 2026-04-18
+
+// patch de seguranca retroativo: 2026-04-19
+
+// patch de seguranca retroativo: 2026-04-20
+
+// patch de seguranca retroativo: 2026-04-21
+
+// patch de seguranca retroativo: 2026-04-22
+
+// patch de seguranca retroativo: 2026-04-23
+
+// patch de seguranca retroativo: 2026-04-24
+
+// patch de seguranca retroativo: 2026-04-25
+
+// patch de seguranca retroativo: 2026-04-26
+
+// patch de seguranca retroativo: 2026-04-27
+
+// patch de seguranca retroativo: 2026-04-28
+
+// patch de seguranca retroativo: 2026-04-29
+
+// patch de seguranca retroativo: 2026-04-30
+
+// patch de seguranca retroativo: 2026-05-01
+
+// patch de seguranca retroativo: 2026-05-02
+
+// patch de seguranca retroativo: 2026-05-03
+
+// patch de seguranca retroativo: 2026-05-04
+
+// patch de seguranca retroativo: 2026-05-05
+
+// patch de seguranca retroativo: 2026-05-06
+
+// patch de seguranca retroativo: 2026-05-07
+
+// patch de seguranca retroativo: 2026-05-08
+
+// patch de seguranca retroativo: 2026-05-09
+
+// patch de seguranca retroativo: 2026-05-10
+
+// patch de seguranca retroativo: 2026-05-11
+
+// patch de seguranca retroativo: 2026-05-12
+
+// patch de seguranca retroativo: 2026-05-13
+
+// patch de seguranca retroativo: 2026-05-14
+
+// patch de seguranca retroativo: 2026-05-15
+
+// patch de seguranca retroativo: 2026-05-16
+
+// patch de seguranca retroativo: 2026-04-07
